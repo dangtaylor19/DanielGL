@@ -1,0 +1,67 @@
+DefaultScene.scene Save File:
+-
+Entity
+Name: Cube
+ID: 0
+Position: 0 -4.4 0
+Rotation: 0 -0 0
+Scale: 10 2.4 10
+-
+Module:Renderer
+-
+Entity
+Name: Point Light
+ID: 1
+Position: 0 0 3.8
+Rotation: 0 -0 0
+Scale: 1 1 1
+-
+Module:Light
+Radius: 5
+Intensity: 1
+Color: 0 1 0
+-
+Entity
+Name: Other cube
+ID: 4
+Position: 0 0 4.5
+Rotation: 0 -0 0
+Scale: 10 8.6 1
+-
+Module:Renderer
+-
+Entity
+Name: Light
+ID: 16
+Position: 2.8 0 3.9
+Rotation: 0 -0 0
+Scale: 1 1 1
+-
+Module:Light
+Radius: 5
+Intensity: 1
+Color: 1 0 0
+-
+Entity
+Name: Light
+ID: 17
+Position: -2.8 0 3.9
+Rotation: 0 -0 0
+Scale: 1 1 1
+-
+Module:Light
+Radius: 5
+Intensity: 1
+Color: 0 0 1
+-
+Entity
+Name: New Entity
+ID: 18
+Position: 0 1.7 0
+Rotation: 0 -0 0
+Scale: 1 1 1
+-
+Module:Light
+Radius: 5
+Intensity: 1
+Color: 1 1 1

@@ -1,0 +1,22 @@
+DefaultScene.scene Save File:
+-
+Entity
+Name: Cube
+ID: 0
+Position: 0 0 0
+Rotation: 0 0 0
+Scale: 1 1 1
+-
+Module:Renderer
+-
+Entity
+Name: Point Light
+ID: 1
+Position: 1 1 -1.5
+Rotation: 0 0 0
+Scale: 1 1 1
+-
+Module:Light
+Radius: 5
+Intensity: 1
+Color: 1, 1, 1
